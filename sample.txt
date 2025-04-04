@@ -1,0 +1,1 @@
+python3 test.py --image test.jpg --prompt "Rustic exposed brick wall with warm tones" --output brick_room.png
