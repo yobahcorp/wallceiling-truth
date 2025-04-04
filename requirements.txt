@@ -1,0 +1,5 @@
+pip install torch torchvision 
+pip install opencv-python 
+pip install matplotlib 
+pip install diffusers transformers accelerate
+pip install git+https://github.com/facebookresearch/segment-anything.git
