@@ -105,7 +105,7 @@ if __name__ == '__main__':
     
     # args = parser.parse_args()
     # image = 'test.jpg'
-    image = '/content/rm.jpeg'
+    image = 'rm.jpeg'
 
     # Load image
     image = cv2.imread(image)
